@@ -1,0 +1,32 @@
++ for input product
+
+<body>
+  <div class="container">
+    <div class="card">
+      <div class="image">
+        <img
+          src="lada.jpg"
+          alt="Lada"
+        />
+      </div>
+
+      <div class="content">
+        <span class="badge">In Stock</span>
+        <h1>SECRET LADA SUPER PREMIUM SUPPLEMENT NEW VERSION</h1>
+        <p class="price">
+          1 ប្រអប់ = 85$ 
+        </p>
+        <p class="desc">
+          
+        </p>
+
+        <ul>
+          <li>​ Any text </li>
+          </ul>
+
+        <div class="footer">
+          
+        </div>
+      </div>
+    </div>
+  </div>
